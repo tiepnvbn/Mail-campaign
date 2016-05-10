@@ -1,0 +1,16 @@
+header{
+	border-bottom: 1px solid gray;
+	height: 90px; 
+}
+main{
+	background: gray;
+	max-height: 500px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+footer{
+	clear: both;
+	position: absolute;
+	bottom: 17px;
+	border-top: 1px solid gray;
+}
