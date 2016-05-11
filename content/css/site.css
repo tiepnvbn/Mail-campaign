@@ -2,6 +2,14 @@ header{
 	border-bottom: 1px solid gray;
 	height: 90px; 
 }
+	header ul{
+
+	}
+	header ul li{
+		height: 90px; 
+		// margin-right: 20px; 		
+	}
+
 main{
 	// background: gray;
 	// max-height: 500px;
@@ -31,4 +39,9 @@ footer{
 }
 .tool-right{
 	height: 600px;
+}
+.framre-menu{
+	border: 2px solid red;
+	display: inline-block;
+	// margin-right: 10px;
 }
